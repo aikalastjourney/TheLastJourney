@@ -1,0 +1,11 @@
+D:\[AIKA _TheLastJourney]\Bin\netcoreapp2.0\Aika_Game_Server.deps.json
+D:\[AIKA _TheLastJourney]\Bin\netcoreapp2.0\Aika_Game_Server.runtimeconfig.json
+D:\[AIKA _TheLastJourney]\Bin\netcoreapp2.0\Aika_Game_Server.runtimeconfig.dev.json
+D:\[AIKA _TheLastJourney]\Bin\netcoreapp2.0\Aika_Game_Server.dll
+D:\[AIKA _TheLastJourney]\Bin\netcoreapp2.0\Aika_Game_Server.pdb
+D:\[AIKA _TheLastJourney]\Game Server\Aika_Game_Server\obj\x86\Release\netcoreapp2.0\Aika_Game_Server.csproj.CoreCompileInputs.cache
+D:\[AIKA _TheLastJourney]\Game Server\Aika_Game_Server\obj\x86\Release\netcoreapp2.0\Aika_Game_Server.AssemblyInfoInputs.cache
+D:\[AIKA _TheLastJourney]\Game Server\Aika_Game_Server\obj\x86\Release\netcoreapp2.0\Aika_Game_Server.AssemblyInfo.cs
+D:\[AIKA _TheLastJourney]\Game Server\Aika_Game_Server\obj\x86\Release\netcoreapp2.0\Aika_Game_Server.dll
+D:\[AIKA _TheLastJourney]\Game Server\Aika_Game_Server\obj\x86\Release\netcoreapp2.0\Aika_Game_Server.pdb
+D:\[AIKA _TheLastJourney]\Game Server\Aika_Game_Server\obj\x86\Release\netcoreapp2.0\Aika_Game_Server.csprojAssemblyReference.cache

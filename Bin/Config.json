@@ -1,0 +1,16 @@
+{
+"ServerSocket" : {
+	"Ip" : "127.0.0.1",
+	"Port" : "8822",
+	"Version" : "100",
+	"Max_Players" : "100"
+	},
+	
+"DataBase" : {
+	"Host": "localhost",
+    "Port": 3306,
+    "User": "root",
+    "Pass": "99318254",
+    "Database": "aika_db"
+	}
+}

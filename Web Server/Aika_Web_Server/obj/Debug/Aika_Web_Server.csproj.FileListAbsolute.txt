@@ -1,0 +1,7 @@
+D:\[AIKA _TheLastJourney]\Web Server\Aika_Web_Server\bin\Debug\Aika_Web_Server.exe.config
+D:\[AIKA _TheLastJourney]\Web Server\Aika_Web_Server\bin\Debug\Aika_Web_Server.exe
+D:\[AIKA _TheLastJourney]\Web Server\Aika_Web_Server\bin\Debug\Aika_Web_Server.pdb
+D:\[AIKA _TheLastJourney]\Web Server\Aika_Web_Server\obj\Debug\Aika_Web_Server.csprojAssemblyReference.cache
+D:\[AIKA _TheLastJourney]\Web Server\Aika_Web_Server\obj\Debug\Aika_Web_Server.csproj.CoreCompileInputs.cache
+D:\[AIKA _TheLastJourney]\Web Server\Aika_Web_Server\obj\Debug\Aika_Web_Server.exe
+D:\[AIKA _TheLastJourney]\Web Server\Aika_Web_Server\obj\Debug\Aika_Web_Server.pdb
